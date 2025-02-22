@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ShammyIII
 - 👀 I’m interested in DevOps Engineering, Cloud Engineering, Systems Quality Assurance Engineering and Python  
 - 📫 How to reach me: Email: bandainnocent30@gmail.com, WhatsApp: +265997277232
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 ShammyIII/ShammyIII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
