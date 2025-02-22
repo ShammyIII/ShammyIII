@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ShammyIII
-- 👀 I’m interested in Cybersecurity, Machine Learning and Data Science
-- 🌱 I’m currently learning Python and android studio
-- 💞️ I’m looking to collaborate on a Project called CropCycle that is based on scanning for Nutrients deficiencies in crops and soil and make a crop rotation recommendation based on the assessment 
+- 👀 I’m interested in DevOps Engineering, Cloud Engineering, Systems Quality Assurance Engineering and Python  
 - 📫 How to reach me: Email: bandainnocent30@gmail.com, WhatsApp: +265997277232
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
